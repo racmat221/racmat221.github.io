@@ -11,8 +11,8 @@ tombolPesan = "Kirim Pesan";
 
 konten = [
   {
-    gambar: "Stiker 1 (SFILE.MOBI).gif",
-    ucapan: "halooo alsaa cantikkkk",
+    gambar:"Stiker 1 (SFILE.MOBI).gif",
+    ucapan:"halooo alsaa cantikkkk",
   },
   {
     gambar: "Stiker 18 (SFILE.MOBI).gif",

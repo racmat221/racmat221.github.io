@@ -11,13 +11,33 @@ tombolPesan = "Kirim Pesan";
 
 konten = [
   {
-    gambar: "NamaFileGambar",
-    ucapan: "UcapanKalian",
+    gambar: "Stiker 1 (SFILE.MOBI).gif",
+    ucapan: "halooo alsaa cantikkkk",
+  },
+  {
+    gambar: "Stiker 18 (SFILE.MOBI).gif",
+    ucapan: "besokk hari apaaa yaa?",
+  },
+  {
+    gambar: "Stiker 43 (SFILE.MOBI).gif",
+    ucapan: "ohyaaa bsk hari ulang tahunn orang paling cantikk dan speciall yaa namanyaa bungaa atau alsaaa",
+  },
+  {
+    gambar: "Stiker 2 (SFILE.MOBI).gif",
+    ucapan: "selamatt ulang tahunn ya cantikk,semogaa yang di semogakan tercapaii",
+  },
+  {
+    gambar: "Stiker 31 (SFILE.MOBI).gif",
+    ucapan: "bahagiaa selaluu,jangan suka sakitt/mootan ,jangann maless untukk mandii yaa cantikk alsaa",
+  },
+  {
+    gambar: "Stiker 32 (SFILE.MOBI).gif",
+    ucapan: "maaf yaa aku belum bisa ngasih apaa apaa dan gak kayak orang orang yang ngajak kamu dinner suprise dll maaf yaaa",
   },
 ];
 
 musik = "musik.mp3";
-noWhatsapp = "6281xxx";
+noWhatsapp = "6288298765725";
 
 /*=========================*/
 </script><script>DekaTutorial(konten, musik, noWhatsapp, teksOpen, tombolPesan);</script></body></html>
